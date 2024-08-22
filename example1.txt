@@ -1,0 +1,100 @@
+{
+"foveal regeneration": [
+            [
+                "SUBSTITUTE",
+                "how well the fovea repaired itself"
+            ],
+            [
+                "SUBSTITUTE",
+                "healing of the center of the field of vision"
+            ],
+            [
+                "EXPLAIN",
+                "healing of the center of the field of vision"
+            ],
+            [
+                "EXPLAIN",
+                "(a part of the retina) regeneration"
+            ]
+        ],
+        "visual acuity": [
+            [
+                "SUBSTITUTE",
+                "vision"
+            ],
+            [
+                "SUBSTITUTE",
+                "Visual sharpness"
+            ],
+            [
+                "SUBSTITUTE",
+                "visual sharpness"
+            ],
+            [
+                "SUBSTITUTE",
+                "vision clarity"
+            ],
+            [
+                "OMIT",
+                ""
+            ],
+            [
+                "GENERALIZE",
+                "standard eyesight charts"
+            ]
+        ],
+        "rhegmatogenous retinal detachment": [
+            [
+                "SUBSTITUTE",
+                "a common retinal detachment"
+            ],
+            [
+                "SUBSTITUTE",
+                "common retinal detachment"
+            ],
+            [
+                "EXPLAIN",
+                "a tear in the retina leads to fluid accumulation which separates the retina from the underlying tissues"
+            ],
+            [
+                "EXPLAIN",
+                "come apart from the wall of the eye"
+            ],
+            [
+                "EXPLAIN",
+                "It can come apart from the wall of the eye"
+            ],
+            [
+                "EXPLAIN",
+                "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+            ],
+            [
+                "GENERALIZE",
+                "retinal detachment"
+            ]
+        ],
+        "retinal": [
+            [
+                "EXPLAIN",
+                "tissue at the back of the eye that captures images"
+            ],
+            [
+                "EXPLAIN",
+                "the light-sensitive layer inside the eye"
+            ],
+            [
+                "EXPLAIN",
+                "the tissue at the back of the eye that captures images"
+            ],
+            [
+                "OMIT",
+                ""
+            ],
+            [
+                "SUBSTITUTE",
+                "light-sensitive layer inside the eye"
+            ]
+        ]
+}
+
+Step 3: " The purpose of this study was to evaluate how well the fovea repaired itself and the association between restoration of the tissue at the back of the eye that captures images and vision clarity following reattachment surgery for rhegmatogenous retinal detachment (RRD) which is a tear in the retina leads to fluid accumulation which separates the retina from the underlying tissues"

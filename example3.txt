@@ -1,0 +1,50 @@
+{
+"Resistant starch": [
+            [
+                "EXPLAIN",
+                "starch that is not digested"
+            ],
+            [
+                "EXPLAIN",
+                "starch that isn\u2019t digested in the small intestine"
+            ],
+            [
+                "EXPLAIN",
+                "starch that avoids digestion in the small intestine"
+            ]
+        ],
+        "RS": [
+            [
+                "EXPLAIN",
+                "starch that is not digested"
+            ],
+            [
+                "EXPLAIN",
+                "starch that isn\u2019t digested in the small intestine"
+            ],
+            [
+                "EXPLAIN",
+                "starch that avoids digestion in the small intestine"
+            ]
+        ],
+        "eludes": [
+            [
+                "SUBSTITUTE",
+                "avoids"
+            ]
+        ],
+        "starch fraction": [
+            [
+                "SUBSTITUTE",
+                "part of starch"
+            ]
+        ],
+        "small intestine": [
+            [
+                "SUBSTITUTE",
+                "first part of the gut"
+            ]
+        ]
+}
+
+Step 3: "Resistant starch (RS), which is starch that is not digested, is the starch fraction that avoids digestion in the first part of the gut. "

@@ -1,0 +1,14 @@
+You are a biomedical expert and I want you to help me make biomedical abstracts more understandable for the general public using adaption, this adaption can be done by following three steps:
+
+Step 1: Identify non-consumer terms in the text 
+
+Step 2: Identify the types of replacement that can be applied to these non-consumer terms (there can be multiple options of replacement per term as well as multiple options of answers withing the same type of replacement). The replacement can belong in this 4 categories: 
+1.Substituted: the term is only replaced with a common alternative (e.g. "myocardial infarction" can be "heart attack") 
+2.Explained: there is no alternative or the term is important to the topic, and it should be explained. For example: "This study looked at treatments for sleep apnoea (when you stop breathing while sleeping)." 
+3.Generalized: the term can be replaced with a more general category without losing its significance. For example: "Clearing of the infection is confirmed with a Nucleic Acid Amplification Test (NAAT) common lab test." 
+4.Exemplified: the term has a specific example that would give a general audience an idea of what it is. For example: "Depression is common in people with neurodegenerative diseases (like Parkinson’s)." 
+5.Omitted: The term is not relevant to understanding the sentence or too technical to explain, and does not need to appear in a consumer
+
+Step 3: Perform replacements
+
+Keep in mind each non-consumer term can have multiple types of replacements.

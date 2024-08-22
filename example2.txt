@@ -1,0 +1,32 @@
+{
+"Idiopathic pulmonary fibrosis": [
+            [
+                "EXPLAIN",
+                "a crippling disease that slowly scars the lungs"
+            ],
+            [
+                "EXPLAIN",
+                "a progressive and damaging disease that causes scarring in the lungs"
+            ],
+            [
+                "EXPLAIN",
+                "a continuous and exhausting disease that scars the lung"
+            ]
+        ],
+        "prognosis": [
+            [
+                "SUBSTITUTE",
+                "expected course"
+            ],
+            [
+                "SUBSTITUTE",
+                "outcomes"
+            ],
+            [
+                "SUBSTITUTE",
+                "outlook"
+            ]
+        ]
+}
+
+Step 3: " Idiopathic pulmonary fibrosis (IPF) a crippling disease that slowly scars the lungs, is a progressive and debilitating, scarring lung disease with a worse outcome than some cancers."
